@@ -13,5 +13,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an incoming research scentist at Bytedance AML, working on LLMs and code generation. Before that, I am a MSCS student at UIUC and I got my bachelor degree at Zhejiang University. I am particularly interested in improving and evaluating large language models.
+Hi! I am a second-year Master student in Computer Science at University of Illinois Urbana-Champaign, advised by Prof. Kevin Chang. Before that, I finished my bachelor degree at Zhejiang University and University of Illinois Urbana-Champaign. 
+
+I am particularly interested in improving and evaluating large language models, and building LLM agents. 
+
+I am excited to join Bytedance AML as a Research Scientist at San Jose starting from this summer. 
 
