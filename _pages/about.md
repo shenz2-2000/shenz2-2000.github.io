@@ -15,4 +15,4 @@ Hi! I am a second-year Master student in Computer Science at University of Illin
 
 I am particularly interested in improving and evaluating large language models, and building LLM agents. 
 
-I am excited to join Bytedance AML as a Research Scientist at San Jose starting from this summer. 
+I am excited to join Bytedance AML as a Research Scientist at San Jose starting from this summer, working on LLMs and code generation.
