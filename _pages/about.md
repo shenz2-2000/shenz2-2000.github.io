@@ -11,8 +11,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 ---
-Hi! I am a second-year Master student in Computer Science at University of Illinois Urbana-Champaign, advised by Prof. Kevin Chang. Before that, I finished my bachelor degree at Zhejiang University and University of Illinois Urbana-Champaign. 
-
-I am particularly interested in large language models trustworthiness and evaluations. 
-
-I am excited to join Bytedance AML as a Research Scientist at San Jose starting from this summer, working on LLMs and code generation.
+Hi! I am a Research Scientist at Bytedance Seed Team, working on building the best in-house code LLMs. My current focus is on large scale LLM mid training and post-training. I was previously a MSCS student at UIUC, with research experience in LLM evaluation, factuality and ethics. Before that, I finished my bachelor degree at Zhejiang University and University of Illinois Urbana-Champaign. 
