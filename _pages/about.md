@@ -14,7 +14,7 @@ social: true # includes social icons at the bottom of the page
 Hi! I am a Senior Research Scientist at Bytedance Seed Team, working on code LLMs and Agents. I got my MS in CS from UIUC and decided to move into industry rather than PhD. Before that, I obtained my bachelor degree in Zhejiang University. 
 
 My research work includes:
-- Automative construction for SFT and RL data
+- Automated curation for scaling posttrain data
 - Test-time scaling
 - LLM pretraining
 - LLM in coding and math [\[1\]](https://arxiv.org/pdf/2506.03524) [\[2\]](https://arxiv.org/pdf/2502.03438)
