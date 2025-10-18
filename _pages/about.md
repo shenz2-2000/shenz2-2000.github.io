@@ -20,7 +20,6 @@ My research work includes:
 - LLM in coding and math [\[1\]](https://arxiv.org/pdf/2506.03524) [\[2\]](https://arxiv.org/pdf/2502.03438)
   
 Previously in academia, I worked on: 
-- LLM Trustworthy [\[3\]](https://arxiv.org/pdf/2304.10513) [\[4\]](https://arxiv.org/pdf/2305.12707)  
-- LLM Evaluation [\[5\]](https://arxiv.org/pdf/2309.16583) [\[6\]](https://arxiv.org/abs/2412.00535)  
+- LLM Trustworthy [\[3\]](https://arxiv.org/pdf/2304.10513) [\[4\]](https://arxiv.org/pdf/2305.12707) and Evaluation [\[5\]](https://arxiv.org/pdf/2309.16583) [\[6\]](https://arxiv.org/abs/2412.00535)  
 
 
