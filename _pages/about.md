@@ -11,7 +11,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 ---
-Hi! I am a Senior Research Scientist at Bytedance Seed Team, working on code LLMs and Agents. I got my MS in CS from UIUC and decided to move into industry rather than PhD. Before that, I obtained my bachelor degree in Zhejiang University. 
+Hi! I am a Member of Technical Staff at xAI reasoning, working on agentic RL to improve grok factuality and usefulness. I was previously Senior Research Scientist at Bytedance Seed Team, working on code LLMs and Agents. I got my MS in CS from UIUC and decided to move into industry rather than PhD. Before that, I obtained my bachelor degree in Zhejiang University. 
 
 My research work includes:
 - Automated curation for scaling posttrain data
